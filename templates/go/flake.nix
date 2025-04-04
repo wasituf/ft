@@ -16,6 +16,7 @@
           git
           go
           gopls
+          gotestsum
         ];
       };
     };
